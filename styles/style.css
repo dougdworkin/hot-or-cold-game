@@ -319,3 +319,18 @@ ul.guessBox li {
 	margin: 0.2em;
 	color: #fff;
 }
+
+
+.status {
+	display: block;
+	margin-top: .5em;
+	color: #f19b2b
+}
+
+.status.em {
+	color: #da6426;
+}
+
+h2#feedback {
+	line-height: 1.3;
+}
