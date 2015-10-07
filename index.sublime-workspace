@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pl",
+				"playThemeFucntion"
+			],
+			[
+				"them",
+				"themeMusic"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pdding",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"li",
+				"lis	list-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"FON",
+				"font-weight"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"m",
+				"meta"
+			],
+			[
+				"r",
+				"role"
+			],
+			[
+				"s",
+				"style	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"ReadmePlease"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"l",
+				"Line Ending: Windows"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dougpdworkin/Desktop/Shared Windows Folder/2015 MA Summit/html/template_shell_30.html",
+		"/Users/dougpdworkin/Desktop/Shared Windows Folder/2015 MA Summit/html/template_shell_32.html",
+		"/Users/dougpdworkin/Desktop/Shared Windows Folder/2015 MA Summit/evaluation /html/eval_template_01.html",
+		"/Users/dougpdworkin/Desktop/Shared Windows Folder/2014 10-07 MA Summit/evaluation/eval_instructions_header_01.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/fizzBuzz/index.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/fizzBuzz/js/myJs.js",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/list_monster/new_list_monster_site/index.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/list_monster/new_list_monster_site/js/myJs.js",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/list_monster/new_list_monster_site/css/mainStyles.css",
+		"/Users/dougpdworkin/Desktop/Shared Windows Folder/2015 Healthy Workforce Webinars/html/Reports site/reports_page_v1.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/list_monster/new_list_monster_site/css/mainStylesOLD.css",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/list_monster/new_list_monster_site/css/mainStyles02.css",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/list_monster/new_list_monster_site/index02.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/List Monster/list_monster_page/index.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/List Monster/list_monster_page/css/mainStyles.css",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/jQuery_streetfighter/js/app.js",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/jQuery_streetfighter/css/main.css",
+		"/Users/dougpdworkin/Documents/dougD/site/www/thinkful/lm_mockup/index.html",
+		"/Users/dougpdworkin/Documents/dougD/site/www/thinkful/lm_mockup/mockup2.html",
+		"/Users/dougpdworkin/Dropbox/classes/ThinkFul/Projects/jQuery_streetfighter/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio_page/js/jquery-1.11.3.min.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/hello_world/js/jquery-2.1.4.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/hello_world/css/style.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/hello_world/js/script.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio_page/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/hello_world/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/Thinkful-DOM-master/Thinkful-DOM-master/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio_page/js/picturefill.min.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio_page/css/mainStyles.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio page/css/mainStyles.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio page/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/portfolio page/mail.php",
+		"/C/Dropbox/classes/ThinkFul/Projects/study sites/tsimenis site/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/study sites/tsimenis site/js/modernizr.foundation.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/study sites/tsimenis site/css/foundation.min.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/study sites/tsimenis site/css/style.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/study sites/tsimenis site/js/stuff.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/study sites/tsimenis site/js/jquery-1.9.1.min.js",
+		"/C/Dropbox/classes/ThinkFul/Projects/startup-landing-page-clone/css/style.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/startup-landing-page-clone/index.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/About Me page/myStyle.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/About Me page/site_copy",
+		"/C/Dropbox/classes/ThinkFul/Projects/startup-landing-page-clone/css/normalize.css",
+		"/C/Dropbox/classes/ThinkFul/Projects/About Me page/index02.html",
+		"/C/Dropbox/classes/ThinkFul/Projects/About Me page/myStyle02.css",
+		"/C/Dropbox/javascript/html5shiv-master/readme.md",
+		"/C/Dropbox/classes/ThinkFul/Projects/first_site/myStyle.css",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/CSSFontFamily/README.md",
+		"/C/Dropbox/classes/ThinkFul/Projects/first_site/freshPrince.html",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/README.md",
+		"/C/Dropbox/classes/Lynda Sublime text/roux_website/index.htm",
+		"/C/Dropbox/classes/ThinkFul/Projects/Lesson 01/freshPrince.html",
+		"/C/Dropbox/classes/Lynda Sublime text/roux_website/index2.htm",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Dropbox/classes/ThinkFul/Lesson 01/freshPrince.html",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/View In Browser/README.md",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/LineEndings/readme.md",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/LineEndings/LineEndings.sublime-settings",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/User/LineEndings.sublime-settings",
+		"/C/Dropbox/classes/Lynda Sublime text/roux_website/_css/main.css",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/Theme - Brogrammer/README.md",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/ReadmePlease/README.md",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/C#/README.markdown",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/enkido/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Dropbox/classes/Lynda Sublime text/roux_website/admissions/request.htm",
+		"/C/Dropbox/classes/Lynda Sublime text/Exercise Files/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Dropbox/classes/Lynda Sublime text/Exercise Files/roux_website/index2.htm",
+		"/C/Dropbox/classes/Lynda Sublime text/Exercise Files/roux_website/_scripts/SpryTabbedPanels.css",
+		"/C/Dropbox/classes/Lynda Sublime text/Exercise Files/roux_website/index.htm"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name=",
+			".text",
+			"label",
+			"about",
+			"goto",
+			"close",
+			"max-width:",
+			" \n",
+			">\n",
+			"campus_portal",
+			"passionate",
+			"campus_portal",
+			"u",
+			"section",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Dropbox\\classes\\Lynda Sublime text\\Exercise Files\\roux_website\\roux_website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 96.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
